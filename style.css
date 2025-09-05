@@ -23,19 +23,22 @@ body{
     color: aliceblue;
 }
 .a1{
-   margin-left: 500px;
+   margin-left: 450px;
 }
 .a2{
     margin-left: 50px;
 }
 .a3{
     color: rgb(0, 0, 0);
-    margin-left: 500px;
+    margin-left: 450px;
     background-color: azure;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
+}
+.a4{
+    margin-left: 50px;
 }
 .a5{
 margin-left: 850px;
